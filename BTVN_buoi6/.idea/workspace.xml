@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ce6be2f-039d-4aa5-88b4-37a8f8f60572" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtilMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTraGiaiDoan2_lan3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai1/GiaiThuat/PTBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai1/gui/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai1/gui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai1/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai2/MyPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai2/RandomAccessFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai2/gui/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai2/gui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi10/src/com/nguyenhuy/bai2/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi11/src/com/nguyenhuy/bai2/gui/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi11/src/com/nguyenhuy/bai2/gui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/btvn_buoi9_javaSwing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/inside_mypanel/inside_paneld/PanelD1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/inside_mypanel/inside_paneld/PanelD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/inside_mypanel/inside_paneld/PanelD3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/inside_mypanel/inside_panelu/PanelU1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/inside_mypanel/inside_panelu/PanelU2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn_buoi9_javaSwing/src/com/nguyenhuy/ui/inside_mypanel/inside_panelu/PanelU3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/src/com/nguyenhuy/login/MyFrame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/src/com/nguyenhuy/login/MyPanel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/src/com/nguyenhuy/logout/LogoutFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/src/com/nguyenhuy/logout/LogoutPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/src/com/nguyenhuy/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/src/com/nguyenhuy/ui/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buoi10/src/com/nguyenhuy/ui/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BTVN_buoi6/com/nguyenhuy/btbs_bai14/MaTran.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BTVN_buoi6/com/nguyenhuy/btbs_bai14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BTVN_buoi6/com/nguyenhuy/btbs_bai14/TinhMaTran.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BTVN_buoi6/com/nguyenhuy/btbs_bai6/KhachSan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BTVN_buoi6/com/nguyenhuy/btbs_bai6/KhachSan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn_buoi7_PhuongThucString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../btvn_buoi7_PhuongThucString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn_buoi8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../btvn_buoi8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn_buoi8/out/production/btvn_buoi8/com/nguyenhuy/bai2/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../btvn_buoi8/out/production/btvn_buoi8/com/nguyenhuy/bai2/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn_buoi8/src/com/nguyenhuy/bai2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../btvn_buoi8/src/com/nguyenhuy/bai2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn_buoi8/src/com/nguyenhuy/bai2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../btvn_buoi8/src/com/nguyenhuy/bai2/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi8_File/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi8_File/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi9_javaSwing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi9_javaSwing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi9_javaSwing/src/com/nguyenhuy/ui/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi9_javaSwing/src/com/nguyenhuy/ui/MyFrame.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1803907974">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="167" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="21642" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="22413" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtilMgr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai1/Friend.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai2/Number.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai3/DacSan.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai3/Tidbit.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/CanBo.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/KySu.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/NhanVien.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/CongNhan.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/QLCanBo.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/QLHoDan.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai1/FriendManager.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/PhuongTien.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/Oto.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/XeMay.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/XeTai.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/QLPhuongTien.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai3/Province.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_QLSVPoly/SinhVien.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_QLSVPoly/QLSinhVien.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_QLSVPoly/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai3/Menu.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/bai2/NumberNice.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/ThiSinh.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/KhoiA.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/KhoiB.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/KhoiC.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/TuyenSinh.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai14/TinhMaTran.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai14/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai14/MaTran.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlgiaodichdat/GiaoDich.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/KHNuocNgoai.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/KhachHang.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/KHVietNam.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/QuanLyKH.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/KhuPho.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/Nguoi.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/HoDan.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/QuanLyKS.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/KhachHang.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/KhachSan.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtilMgr.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="977" />
+    <option name="y" value="23" />
+    <option name="width" value="1583" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BTVN_buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN_buoi6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN_buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN_buoi6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN_buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN_buoi6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nguyenhuy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN_buoi6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN_buoi6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nguyenhuy" type="462c0819:PsiDirectoryNode" />
+              <item name="cau1_thuchanh_array_collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545557456071" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nguyenhuy.cau1_thuchanh_array_collection.Main" />
+      <module name="BTVN_buoi6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nguyenhuy.cau1_thuchanh_array_collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nguyenhuy.btbs_bai6.Main" />
+      <module name="BTVN_buoi6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nguyenhuy.btbs_bai6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nguyenhuy.btbs_bai14.Main" />
+      <module name="BTVN_buoi6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nguyenhuy.btbs_bai14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nguyenhuy.btbs_qlhoadontiendien.Main" />
+      <module name="BTVN_buoi6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nguyenhuy.btbs_qlhoadontiendien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nguyenhuy.BTBS_bai5.Main" />
+      <module name="BTVN_buoi6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nguyenhuy.BTBS_bai5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ce6be2f-039d-4aa5-88b4-37a8f8f60572" name="Default Changelist" comment="" />
+      <created>1543327412730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543327412730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="977" y="23" width="1583" height="992" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1550941" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.21975583" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32963374" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Run" order="8" weight="0.47112265" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/KySu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/CongNhan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai2/CanBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/Oto.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/XeMay.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/XeTai.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/PhuongTien.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai15/QLPhuongTien.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_QLSVPoly.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai1/FriendManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_QLSVPoly/SinhVien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_QLSVPoly/QLSinhVien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="102" selection-start-line="45" selection-start-column="102" selection-end-line="45" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_QLSVPoly/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai3/Tidbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai1/Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai3/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai3/Province.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/ThiSinhKhoiA.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/ThiSinh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/KhoiA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/KhoiB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/KhoiC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/TuyenSinh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai14.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai1/MyAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/bai2/NumberNice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="42" column="57" lean-forward="true" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlgiaodichdat.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai14/TinhMaTran.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai14/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlgiaodichdat/GiaoDich.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/KhachHang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/KHNuocNgoai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/KHVietNam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai14/MaTran.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_qlhoadontiendien/QuanLyKH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/KhachHang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/QuanLyKS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/btbs_bai6/KhachSan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="74" selection-start-line="34" selection-start-column="74" selection-end-line="34" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/KhuPho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/Nguoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/BTBS_bai5/HoDan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nguyenhuy/cau1_thuchanh_array_collection/NumberUtilMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
