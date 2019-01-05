@@ -44,5 +44,16 @@ public class Car {
         System.out.println(toString());
     }
 
-    public void showCost
+    public int showCost() {
+        System.out.println("Gia cuoc: " + price);
+        System.out.println("So km da di: " + kmTotal);
+        System.out.println("Thu nhap: " + costTotal);
+        return costTotal;
+    }
+
+    public void drive(char starPos, char destPos) {
+        this.starPos = starPos;
+        this.destPos = destPos;
+        
+    }
 }

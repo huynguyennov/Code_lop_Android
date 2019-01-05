@@ -39,4 +39,5 @@ public abstract class Entity {  // class Entity la abstract class bao quát cho 
                 break;
         }
     }
+
 }

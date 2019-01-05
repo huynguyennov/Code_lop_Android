@@ -26,8 +26,8 @@ public class Bot extends Entity {
 
 
     private void generateOrient() { // cho orient random từ 0 - 3 để bot random di chuyển
-        int percent = rd.nextInt(101);  // tạo percent để bot không đổi hướng liên tục, chỉ 5%
-        if(percent > 97){
+        int percent = rd.nextInt(100);  // tạo percent để bot không đổi hướng liên tục, chỉ 3%
+        if(percent > 96){  // xac suat: 99 - 96 = 3%
             orient = rd.nextInt(4);
 
         }

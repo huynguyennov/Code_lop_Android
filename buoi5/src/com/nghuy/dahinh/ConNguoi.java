@@ -35,8 +35,9 @@ public abstract class ConNguoi {
         System.out.println(dongVat.toString());
         boolean isDog = dongVat instanceof Cho;     // Kiem tra xem doi tuong dongVat nay
                                                     // co phai la doi tuong Cho khong
-        if(isDog == true){
-            Cho cho = (Cho) dongVat;        // ép kiểu dongVat theo kiểu (Cho)
+        if(isDog == true){                   // vì dongVat không có phương thức sua() của lớp cụ thể Cho nên nếu lấy
+                                            //  để gọi phương thức sua() thì sẽ báo
+            Cho cho = (Cho) dongVat;        // => ép kiểu dongVat theo kiểu (Cho) để có thể gọi được phương thức sua()
             cho.sua();
         }else{
             Meo meo = (Meo) dongVat;        // ép kiểu dongVat theo kiểu (Meo)

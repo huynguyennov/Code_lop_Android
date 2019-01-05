@@ -2,23 +2,165 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41a09ab4-af33-4a59-a19d-374baa248947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/ButDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/ButVe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/ButXanh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/HinhTamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/HinhVe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai2/AmNhac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai2/BaiHat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/src/com/nguyenhuy/bai2/VideoAmNhac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BTVN_Constructor_This_InnerClass_KeThua_Override_Overload_AbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Constructor_This_InnerClass_KeThua_Override_Overload_AbstractClass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BTVN_Constructor_This_InnerClass_KeThua_Override_Overload_AbstractClass/src/com/nghuy/chua_bai_2/KhoanVayNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_Constructor_This_InnerClass_KeThua_Override_Overload_AbstractClass/src/com/nghuy/chua_bai_2/KhoanVayNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_buoi5_DaHinh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraGiaiDoan2_lan3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KiemTraGiaiDoan2_lan3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraGiaiDoan2_lan3/src/com/nguyenhuy/bai1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KiemTraGiaiDoan2_lan3/src/com/nguyenhuy/bai1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/buoi11_lamGameBoom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/buoi11_lamGameBoom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/Crate.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/Crate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/IceBox.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/IceBox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/SnowMan.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/SnowMan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/Stone.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/Stone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/Tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/Tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/bird.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/bird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/blink_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/bomhop1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/bomhop1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/boom1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/boom1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/boom2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/boom2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/brick.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/brick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/chi_dan.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/chi_dan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/donghobt1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/donghobt1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/explosion4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/giay.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/giay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/no4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/snow.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/snow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/snowman1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/snowman1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/tuanloc.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/images/tuanloc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/down7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/left7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/right7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/santa_images/up7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/bigexplode.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/bigexplode.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/explosion.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/explosion.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/game.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/game.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/luigi_haha.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/luigi_haha.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/menu.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/menu.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/menu1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/menu1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/run.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/run.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/wahoo.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/out/production/buoi11_lamGameBoom/sound/wahoo.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/gui/BoomFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/gui/BoomFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/gui/BoomPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/gui/BoomPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/manager/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/manager/GameManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/model/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/model/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/model/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/com/nguyenhuy/model/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/Crate.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/Crate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/IceBox.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/IceBox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/SnowMan.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/SnowMan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/Stone.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/Stone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/Tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/Tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/bird.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/bird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/blink_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/bomhop1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/bomhop1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/boom1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/boom1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/boom2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/boom2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/brick.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/brick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/chi_dan.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/chi_dan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/donghobt1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/donghobt1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/explosion4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/giay.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/giay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/no4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/snow.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/snow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/snowman1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/snowman1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/tuanloc.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/images/tuanloc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/down7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/left7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/right7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/santa_images/up7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/bigexplode.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/bigexplode.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/explosion.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/explosion.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/game.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/game.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/luigi_haha.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/luigi_haha.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/menu.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/menu.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/menu1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/menu1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/run.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/run.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/wahoo.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi11_lamGameBoom/src/sound/wahoo.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nghuy/dahinh/ConNguoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nghuy/dahinh/ConNguoi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,23 +204,52 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="218801501">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="189" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="216">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/ConNguoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="39" column="118" selection-start-line="39" selection-start-column="118" selection-end-line="39" selection-end-column="118" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/ConNguoi.java">
+        <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Cho.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+            <state relative-caret-position="270">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -86,7 +257,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Thanh.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="288">
               <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
@@ -95,17 +266,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Hoa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="198">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/DongVat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="36">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -138,11 +309,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="860" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1700" />
-    <option name="height" value="993" />
+    <option name="width" value="1280" />
+    <option name="height" value="727" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -152,7 +322,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,26 +329,17 @@
               <item name="buoi5" type="b2602c69:ProjectViewProjectNode" />
               <item name="buoi5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="buoi5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buoi5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buoi5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buoi5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nghuy" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542549490870" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -249,14 +409,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="860" y="23" width="1700" height="993" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="727" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18033776" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18739903" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -292,45 +452,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nghuy/get_set/DeMo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/nghuy/get_set/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Cho.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Thanh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="288">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Hoa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="198">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/ConNguoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/DongVat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="36">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Cho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nghuy/dahinh/ConNguoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="39" column="118" selection-start-line="39" selection-start-column="118" selection-end-line="39" selection-end-column="118" />
         </state>
       </provider>
     </entry>
